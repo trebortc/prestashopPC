@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.4.1	2018/07/30 - 06:43:28: Link to database cannot be established: SQLSTATE[HY000] [2002] Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+ at line 120 in file classes/db/DbPDO.php

@@ -1,0 +1,13 @@
+1533794479
+s:2692:"HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 09 Aug 2018 04:00:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2381
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22319","name":"ps_featuredproducts","displayName":"Featured products","categoryName":"Natif","description":"Pick the category you want and highlight the items it contains; enhance your customers experience with a lively homepage","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=22319?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22319.jpg","fullDescription":"Pick the category you want and highlight the items it contains; enhance your customers experience with a lively homepage.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>Increase your visibility<\/strong>: select what category you want to focus attention on and display a few of its items on your front office.<\/li>\r\n\t<li><strong>Promote your catalog<\/strong>: your products need special attention, display a part of your catalog via this immediate, one-click access to relevant items to boost your sales.<\/li>\r\n<\/ul>\r\n","features":"<span style=\"color:rgb(0, 0, 0)\">In the configuration page, you can set the number of products you want to show. Once this value is saved, go into the configuration page of a product of your choice (&quot;Catalog&quot; menu). Select &quot;Home&quot; as the category into which the product appears, in addition to its current categories (do not remove its original category).<br \/>\r\n<br \/>\r\nSave your change, and your product will appear on your shop&#39;s homepage. Repeat for all of the products that you want to place on the home page.<\/span>","customer_benefits":"<span style=\"color:rgb(0, 0, 0)\">Immediate, one-click access to relevant products<\/span>","demo_video":"","version":"2.0.0","last_update":"2018-08-09 05:08:55","compatibility":{"from":"1.7.1.0","to":"1.7.4.2"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/api-addons.prestashop.com\/1271559-pprod\/.jpg","big":"https:\/\/api-addons.prestashop.com\/1271559-pbig\/.jpg"},"pictures":{"small":["https:\/\/api-addons.prestashop.com\/1271558-pprod\/.jpg"],"big":["https:\/\/api-addons.prestashop.com\/1271558-pbig\/.jpg"]}}]}";

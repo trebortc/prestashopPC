@@ -1,0 +1,108 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+#wrapper {
+  background: #D3FFFF;
+}
+
+.show_list, .show_grid {
+  cursor:pointer;
+  opacity:1.0;
+}
+
+.show_list:hover, .show_grid:hover {
+  opacity:0.7;
+}
+
+.product_show_list {
+  width:100%;
+}
+
+.product_show_list .highlighted-informations, .product_show_list .product-description, .product_show_list .thumbnail-container {
+  width:100%!important;
+}
+
+.product_show_list .product-thumbnail {
+  text-align:center;
+}
+
+.atc_qty {
+  display: inline-block;
+  width: 30px;
+  border: 1px solid #cecece;
+  background: #FFF;
+  padding: 5px 1px;
+  text-align: center;
+  top: 1px;
+  margin: auto;
+  position: relative;
+  margin: 4px 0px 0px 30px;
+}
+
+.product-description {
+  min-height:130px;
+}
+
+#products .thumbnail-container {
+  min-height:368px;
+}
+
+.atc_div {
+  margin-top:10px;
+}
+
+
+.atc_spinner {
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 4000ms;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: spin;
+  -moz-animation-duration: 4000ms;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -ms-animation-name: spin;
+  -ms-animation-duration: 4000ms;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+   
+  animation-name: spin;
+  animation-duration: 4000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes spin {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  from {
+      transform:rotate(0deg);
+  }
+  to {
+      transform:rotate(360deg);
+  }
+}
+
+
+#products .thumbnail-container:hover .highlighted-informations, .featured-products .thumbnail-container:hover .highlighted-informations, .product-accessories .thumbnail-container:hover .highlighted-informations, .product-miniature .thumbnail-container:hover .highlighted-informations {
+  bottom: 4.525rem;
+}
+
+#products .highlighted-informations, .featured-products .highlighted-informations, .product-accessories .highlighted-informations, .product-miniature .highlighted-informations {
+  bottom: 2rem;
+}
+
+.btn-secondary{
+  padding:.5rem .2rem;
+}
