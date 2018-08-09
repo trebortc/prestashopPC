@@ -1,0 +1,12 @@
+https://www.novicompu.com/12-laptops#
+Plantilla
+https://github.com/devilthemes/blackhawk4x
+
+http://localhost/prestashopcompu/admin458iojgqj/index.php?controller=AdminLogin&token=f7484b5b6c3421a8180fbfc988e752f4
+
+https://mypresta.eu/prestashop-17/grid-list-switcher-in-category-view.html
+
+https://mypresta.eu/en/art/prestashop-17/page-2/
+
+R install
+https://linuxconfig.org/install-r-on-ubuntu-18-04-bionic-beaver-linux
